@@ -3,6 +3,10 @@
 *::after {
   box-sizing: border-box;
 }
+body {
+  font-family: sans-serif;
+  background-color: #f9fbfd;
+}
 
 html,
 body,
@@ -10,11 +14,6 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
-}
-
-body {
-  font-family: sans-serif;
-  background-color: #f9fbfd;
 }
 
 .wrapper {
